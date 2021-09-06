@@ -1,3 +1,3 @@
 # Minh1-project
-Hello 
+Xin chao mng
 My name is Minh
